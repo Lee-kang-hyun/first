@@ -8,7 +8,5 @@ public class Hello {
 		System.out.println("세번째 커밋");
 		
 		// 주석
-		
-		// 로컬에서 작업했습니다.
 	}
 }
